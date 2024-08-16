@@ -12,7 +12,7 @@ function showDescription(type, element) {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>External Regulation</td>
+                            <td><strong>External Regulation</strong></td>
                             <td>Motivation driven by external rewards or avoiding punishment.</td>
                             <td>A student studies hard to get good grades to avoid being punished by their parents.</td>
                         </tr>
@@ -32,7 +32,7 @@ function showDescription(type, element) {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Introjected Regulation</td>
+                            <td><strong>Introjected Regulation</strong></td>
                             <td>Motivation driven by internal pressures such as guilt or obligation.</td>
                             <td>A student attends all classes because they would feel guilty if they didn’t, even if they don’t enjoy the subject.</td>
                         </tr>
@@ -52,7 +52,7 @@ function showDescription(type, element) {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Identified Regulation</td>
+                            <td><strong>Identified Regulation</strong></td>
                             <td>Motivation driven by personal importance and values.</td>
                             <td>A student participates in a math course because they recognize that math skills are crucial for their future career in engineering.</td>
                         </tr>
@@ -72,7 +72,7 @@ function showDescription(type, element) {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Integrated Regulation</td>
+                            <td><strong>Integrated Regulation</strong></td>
                             <td>Motivation aligned with personal identity and values.</td>
                             <td>A student volunteers at a charity because they strongly believe in the cause and it reflects their personal values.</td>
                         </tr>
@@ -92,7 +92,7 @@ function showDescription(type, element) {
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Intrinsic Motivation</td>
+                            <td><strong>Intrinsic Motivation</strong></td>
                             <td>Motivation driven by inherent enjoyment and interest in the activity.</td>
                             <td>A student plays the piano purely because they love making music and it brings them joy.</td>
                         </tr>
