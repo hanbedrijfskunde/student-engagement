@@ -104,8 +104,7 @@ function showDescription(type, element) {
                         <tr>
                             <td colspan="3">
                                 <ul>
-                                    <li>Positively related to persistence</li>
-                                    <li>Positively related to well-being</li>
+                                    <li>No data</li>
                                 </ul>
                             </td>
                         </tr>
